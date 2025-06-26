@@ -1,0 +1,1 @@
+I'm learning basics to advance JavaScript from youtube channel: BroCode. His project based course is very structured and useful! Would recommend to everyone who is getting into JavaScript from basics to advanced.
